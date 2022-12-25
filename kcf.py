@@ -3,6 +3,7 @@ import numpy as np
 from numpy.fft import fft2, ifft2, fftshift
 from numpy import conj, real
 
+A=1000
 
 class HOG():
     def __init__(self, winSize):
