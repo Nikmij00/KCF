@@ -2,14 +2,8 @@ import cv2
 import numpy as np
 from numpy.fft import fft2, ifft2, fftshift
 from numpy import conj, real
-import sys
-import weakref
-b=10000
-d=3000
-C=2000
-e=700
-g=900
-f=800
+
+
 class HOG():
     def __init__(self, winSize):
         self.winSize = winSize
