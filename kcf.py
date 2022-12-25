@@ -5,7 +5,12 @@ from numpy import conj, real
 import os
 a=1000
 import sys
+<<<<<<< HEAD
 c=30000
+=======
+b=20000
+
+>>>>>>> 393fae3 (1)
 class HOG():
     def __init__(self, winSize):
         self.winSize = winSize
