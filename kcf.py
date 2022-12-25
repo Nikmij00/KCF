@@ -5,7 +5,7 @@ from numpy import conj, real
 import sys
 import weakref
 b=10000
-
+C=2000
 
 class HOG():
     def __init__(self, winSize):
