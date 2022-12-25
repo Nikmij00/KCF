@@ -9,6 +9,7 @@ a = 1000
 
 
 
+
 class HOG():
     def __init__(self, winSize):
         self.winSize = winSize
