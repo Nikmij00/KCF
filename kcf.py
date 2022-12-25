@@ -3,11 +3,8 @@ import numpy as np
 from numpy.fft import fft2, ifft2, fftshift
 from numpy import conj, real
 import os
-<<<<<<< HEAD
 a=1000
-=======
 import sys
->>>>>>> e3fdfb7ccb909c741a322d4b9c7f4c1cbb677f88
 
 class HOG():
     def __init__(self, winSize):
