@@ -5,11 +5,7 @@ from numpy import conj, real
 import sys
 import weakref
 
-<<<<<<< HEAD
 a = 1000
-
-=======
->>>>>>> 31997e7bbaa49e31d2f7290cdbaf091896da9804
 
 
 
