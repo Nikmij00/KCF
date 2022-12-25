@@ -5,7 +5,7 @@ from numpy import conj, real
 import sys
 import weakref
 
-
+A= 1000
 
 
 class HOG():
