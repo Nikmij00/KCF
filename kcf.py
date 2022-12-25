@@ -5,6 +5,9 @@ from numpy import conj, real
 import sys
 import weakref
 
+
+
+
 class HOG():
     def __init__(self, winSize):
         self.winSize = winSize
