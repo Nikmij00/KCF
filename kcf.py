@@ -4,8 +4,7 @@ from numpy.fft import fft2, ifft2, fftshift
 from numpy import conj, real
 import sys
 import weakref
-
-A= 1000
+b=10000
 
 
 class HOG():
