@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from numpy.fft import fft2, ifft2, fftshift
 from numpy import conj, real
-import os
+import sys
 import weakref
 
 class HOG():
