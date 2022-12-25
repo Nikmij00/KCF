@@ -5,7 +5,7 @@ from numpy import conj, real
 import os
 a=1000
 import sys
-
+c=30000
 class HOG():
     def __init__(self, winSize):
         self.winSize = winSize
